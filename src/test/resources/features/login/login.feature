@@ -17,7 +17,7 @@ Feature: Login to Sauce home page
       | standard_user  | secret_sauce |
 
 
-  @inProgress
+  @qa
   Scenario: Success Logout to Sauce home page
     Given Carlos is a SauceCustomer
     When He tries to log out
