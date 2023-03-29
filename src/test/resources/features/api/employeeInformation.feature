@@ -1,6 +1,6 @@
 Feature: Employee Information
 
-  @inProgress
+  @api
   Scenario: Create new employee
     Given Endava hired Carlos with the QA role
     When Endava creates his information in the company
